@@ -3,7 +3,7 @@ import { I4G, Zuri } from '../assets/images'
 
 const Footer = () => {
   return (
-    <div className='flex justify-between py-8 '>
+    <div className='flex flex-wrap justify-between gap-8  py-8  '>
         <div>
             <img src={Zuri} alt="Zuri logo" />
         </div>
