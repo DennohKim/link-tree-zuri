@@ -7,6 +7,7 @@ const LinkCard = ({ url, platform, id}) => {
         id={id}
         className="font-medium py-4 my-2  text-center bg-slate-200 rounded-md"
         href={url}
+        target="_blank"
       >
         {platform}
       </a>
