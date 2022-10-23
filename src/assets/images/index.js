@@ -1,0 +1,5 @@
+export { default as Github } from './github.png'
+export { default as I4G } from './I4G.png'
+export { default as ProfilePic } from './profile__img.png'
+export { default as Slack } from './slack.png'
+export { default as Zuri } from './zuri-logo.png'
